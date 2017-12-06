@@ -1,3 +1,7 @@
+/node_modules
+/references
+/data_old
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
