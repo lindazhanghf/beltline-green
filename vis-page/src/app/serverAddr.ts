@@ -1,0 +1,6 @@
+// echo 65536 | sudo tee -a /proc/sys/fs/inotify/max_user_watches
+// export const wsAddr = 'http://yuhui-desktop.duckdns.org:8080';
+export const wsAddr = 'http://127.0.0.1:8088';
+// export const wsAddr = 'http://192.168.0.9:8080';
+
+
